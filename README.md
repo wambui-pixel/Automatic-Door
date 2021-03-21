@@ -1,4 +1,4 @@
- # COVID-19 PROJECT
+ # COVID-19 PROJECT- Automatic Door System
  
  ## An Automatic Door Sytem prototype that uses an Ultrasonic sensor and a Servo-motor
 
