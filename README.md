@@ -22,12 +22,12 @@ Operating Speed (6V): 0.12 Seconds/60°,
 Stall Torque (4.8V): 1.3kg/cm,
 Stall Torque (6V) : 1.5kg/cm,
 Rotation: 0°-180°,
-Gear Type: Plastic,
+Gear Type: Plastic.
 
 Motor Connections:
 Red Colour- Supply,
 Orange Colour- PWM (Signal),
-Brown Colour- GND
+Brown Colour- GND.
 
 ## HC-SR04 Ultrasonic Sensor
 
@@ -36,14 +36,14 @@ Working Current: 15mA,
 Working Frequency: 40Hz,
 Min Range: 2cm,
 Max Range: 4m,
-Measuring Angle: 15°,
+Measuring Angle: 15°.
 
 Pinout:
 
 VCC: Power,
 Trig: Input Signal,
 Echo: Output Signal,
-GND: Ground
+GND: Ground.
 
 
 
