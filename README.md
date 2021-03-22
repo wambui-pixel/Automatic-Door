@@ -4,7 +4,7 @@
 
 ## Project Statement
 
-The project involves coming up with a proof-of-concept automatic door system that helps reduce coming into contact with contaminated surfarces, e.g. a door in a public place, 
+The project involves coming up with a proof-of-concept automatic door system that helps reduce coming into contact with contaminated surfaces, e.g. a door in a public place, 
 most especially during this day and age of Covid-19.
 The door is automated in such a way that it opens once one comes within range of the Ultrasonic sensor.
 
