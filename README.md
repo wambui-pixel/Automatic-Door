@@ -46,6 +46,7 @@ Echo: Output Signal,
 GND: Ground.
 
 ## Breadboard Layout
-![Breadboard layout](Fritzing/Automated door system schematic_bb.jpg)
+![Breadboard layout](Fritzing/Automated door system schematic_bb.png)
+
 
 
